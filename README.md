@@ -1,1 +1,2 @@
 # Fly-Ball-Distribution-Map
+As we discussed the coaches would like a 2-d distribution map of where flyballs go.  The full data set is pretty large, but when you filter by balls in play, it will be much smaller.  After that, we will need to grab the outfield balls, which is probably some combination of launch angle and distance.  We don’t want the shallow fly balls. Once we get the correct hit balls, then it’s a matter of creating a 2- D distribution map of where they happen.  We will also need to separate the handedness of the pitcher and batter.
